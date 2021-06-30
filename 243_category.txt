@@ -1,0 +1,243 @@
+BEEKEEPING  Beekeeping encourages the conservation of local habitats.
+BEEKEEPING  It is in every beekeeper's interest to conserve local plants that produce pollen.
+BEEKEEPING  As a passive form of agriculture, it does not require that native vegetation be cleared to make way for crops.
+BEEKEEPING  Beekeepers also discourage the use of pesticides on crops, because they could kill the honeybees.
+BEEKEEPING  Artisanal beekeepers go to extremes for their craft, but their product is worth the effort.
+BEEKEEPING  Artisanal honey-making emphasizes quality and character over quantity and consistency.
+BEEKEEPING  To produce the finest honey, beekeepers become micromanagers of their honeybees.
+BEEKEEPING  They scout the fields, know when nectar flows, and select the best ways to extract honey.
+BEEKEEPING  As the beekeeper opens the hive, the deep hum of 40,000 bees fills the air.
+BEEKEEPING  The beekeeper checks honey stores, pollen supplies, and the bee nursery.
+BEEKEEPING  Bees crawl across his bare arms and hands, but they don't sting, because they're gentle.
+DREAMS  I have a recurring dream about exams, even though I'm no longer in college.
+DREAMS  In my dream, it's the day of my final exam and I suddenly realize I've never gone to class.
+DREAMS  I've never even done any of the reading assignments.
+DREAMS  I know many other people who have the same nightmare.
+DREAMS  Each morning, participants in the study had to write down their dream experience from the previous night.
+DREAMS  They recorded if they recalled any dreams, and described each dream and its emotional intensity.
+DREAMS  Participants then assigned each dream to a category, such as a flying dream, a bad dream, or a nightmare.
+DREAMS  Every night while we sleep, our minds are as active as when we are awake.
+DREAMS  We dream throughout the night, in cycles of about ninety minutes each.
+DREAMS  Images, feelings, stories, and strange combinations of characters and places can fill our dreams.
+GAMBLING  When I decided to start playing cards, things went from bad to worse.
+GAMBLING  Gambling was something I had to do, and I had already spent close to $10,000 doing it.
+GAMBLING  My friends were sick of watching me gamble my savings away.
+GAMBLING  The hardest part was the horror of leaving a casino after losing money I did not have.
+GAMBLING  Good data on the social and economic effects of legalized gambling are hard to come by.
+GAMBLING  Some studies indicate that having a casino nearby makes gambling problems more likely.
+GAMBLING  Gambling may also be associated with personal bankruptcies and marriage problems.
+GAMBLING  Over the past generation, there has been a dramatic expansion of legalized gambling.
+GAMBLING  Most states have instituted lotteries, and many have casinos as well.
+GAMBLING  Gambling has become very big but controversial business.
+HURRICANE  The wind from the hurricane shook the house, shattering a window in the kitchen.
+HURRICANE  We ran in, grabbed some food, slammed the door, and surrendered the kitchen to the hurricane.
+HURRICANE  I was afraid our house would be ripped from its foundation.
+HURRICANE  Later that night, with the wind shaking the house, we fell asleep huddled on the sofa.
+HURRICANE  Hurricanes can tear limbs off of trees and suck houses off their foundations.
+HURRICANE  They dump heavy rains that can trigger floods and mudslides.
+HURRICANE  Hurricanes can also bring a storm surge: a wall of ocean water that lurches onto land.
+HURRICANE  Scientists use several methods to look for evidence of ancient hurricanes.
+HURRICANE  The strongest storms deposited layers of windblown beach sand at the bottoms of coastal lakes.
+HURRICANE  Trees drenched by passing hurricanes preserve a record of each storm in their growth rings.
+ICE_CREAM  American ice cream is exported around the world, but different countries have different preferences.
+ICE_CREAM  Many people enjoy their ice cream flavored with local delicacies.
+ICE_CREAM  In some tropical places, vanilla ice cream is topped with bananas and fresh mangos.
+ICE_CREAM  I remember making ice cream at home as a child.
+ICE_CREAM  We poured the cream mixture into a frozen tub, then start turning the crank to expose it to the cold.
+ICE_CREAM  Eventually it froze enough that I couldn't turn the hand crank any more.
+ICE_CREAM  Then I put the container of half-frozen ice cream into the freezer to harden.
+ICE_CREAM  Ice cream is a mixture of milk or cream, sugar, flavorings, and up to half whipped-in air.
+ICE_CREAM  The butterfat in milk and cream is what makes it smooth and silky.
+ICE_CREAM  High-priced premium ice cream is loaded with butterfat and natural flavorings.
+LAWN_MOWER  When I use the riding lawn mower, the uncomfortable chair makes my back hurt.
+LAWN_MOWER  I use the two levers in front of me to control the machine.
+LAWN_MOWER  The sharp blades underneath the lawn mower precisely sever each blade of grass.
+LAWN_MOWER  Mowing the lawn is a long task and it has taught me patience.
+LAWN_MOWER  A lawn mower is a machine with revolving blades that cut grass to an even height.
+LAWN_MOWER  The blades may be powered by muscle or the machine may have a motor.
+LAWN_MOWER  The most common power source for lawn mowers is a small gas engine.
+LAWN_MOWER  Electric lawnmowers are better for the environment because they do not create emissions.
+LAWN_MOWER  They also need less maintenance and are less expensive to run.
+LAWN_MOWER  Electric lawn mowers use as much electricity as an ordinary toaster.
+ASTRONAUT  Astronauts train a long time for their spacewalks.
+ASTRONAUT  Much of their training is conducted underwater.
+ASTRONAUT  They may spend 8 to 10 hours in the pool for every hour they will spend floating in space.
+ASTRONAUT  Astronauts practice to be able to perform construction and repair work on the outside of the space station.
+ASTRONAUT  The commanders of shuttle flights are always pilots, and many have backgrounds as military test pilots.
+ASTRONAUT  Other astronauts are trained as doctors, engineers, and scientists, who can run experiments in space.
+ASTRONAUT  Early crews were all young men, but astronauts now are much more diverse.
+ASTRONAUT  The team of astronauts floated out together to the exterior of the space shuttle.
+ASTRONAUT  They carried tools needed to repair the broken part on the huge telescope.
+ASTRONAUT  One astronaut loosened the bolts on the pipe, while the other fitted the replacement part into place.
+COMPUTER_GRAPHICS  Computers have been used in art for a long time by experimental artists.
+COMPUTER_GRAPHICS  Now that computers are more affordable and widespread, computer graphics have entered the mainstream art world.
+COMPUTER_GRAPHICS  Some computer science conferences have art exhibitions that showcase the latest graphics technology.
+COMPUTER_GRAPHICS  Brand new conferences have sprung up that are devoted to bridging the two cultures.
+COMPUTER_GRAPHICS  The computer graphics specialist works with doctors to visualize medical conditions and surgical procedures.
+COMPUTER_GRAPHICS  She uses digital animation to help doctors understand structures within a patient's body.
+COMPUTER_GRAPHICS  Seeing the internal structures in an animation on a screen is much clearer than squinting at X-rays.
+COMPUTER_GRAPHICS  Modern digital animation is a powerful tool for education.
+COMPUTER_GRAPHICS  As the field of computer graphics broadens, we must ask if graphics actually help students.
+COMPUTER_GRAPHICS  Research does suggest that vivid and engaging digital imagery can be effective in the classroom.
+LAW_SCHOOL  The reason he came to law school in the first place was cliche.
+LAW_SCHOOL  He wanted to change things for the better.
+LAW_SCHOOL  He recalled one evening at law school when he and the program director had pulled an all-nighter.
+LAW_SCHOOL  They finally finished drafting a petition for several evicted families at sunrise.
+LAW_SCHOOL  Over the past four decades, the cost of legal education has gone up relentlessly.
+LAW_SCHOOL  Private law school tuition increased by a factor of four since the 1970s.
+LAW_SCHOOL  The market for admission to law school and for new lawyers could eventually crash.
+LAW_SCHOOL  Law school faculty often have minimal experience in actually practicing law.
+LAW_SCHOOL  Professors focus on writing law review articles for prestigious journals.
+LAW_SCHOOL  Law schools often emphasize the theoretical, with classes on topics like property law in feudal England.
+PHARMACIST  Pharmacists are increasingly involved in preventive care.
+PHARMACIST  They are becoming front-line health advisers because people go to pharmacies often.
+PHARMACIST  Pharmacists are often a good source of information about public health.
+PHARMACIST  Doctors consult with pharmacists because they know a lot about drug interactions and side effects.
+PHARMACIST  Pharmacists dispense prescription drugs to patients and offer advice about the safe use of medications.
+PHARMACIST  They also conduct health and wellness screenings and provide vaccines.
+PHARMACIST  Pharmacists must have professional degrees and pass two exams in order to be licensed.
+PHARMACIST  I think the pharmacy profession chose me as much as I chose to be a pharmacist.
+PHARMACIST  I was fascinated by the neatly arranged bottles in pharmacies as a child.
+PHARMACIST  I know it's cliche, but I love the impact that I have on lives of my patients.
+STRESS  Each person has his or her own response to potentially stressful situations.
+STRESS  One person may be devastated by unemployment, while another may find working fulltime stressful.
+STRESS  There are everyday stresses, like being stuck in traffic.
+STRESS  There are also traumatic stresses, such as divorce or loss of a child.
+STRESS  Some people can adapt to different levels of stress.
+STRESS  If not dealt with effectively, though, stress can take a real toll on health.
+STRESS  Remember that it's your reaction to stress that determines if it will be harmful or beneficial.
+STRESS  When my company was downsizing, I felt incredibly stressed and worried.
+STRESS  My heart would race for no reason, and I even felt dizzy at times.
+STRESS  Then, I started taking yoga to try to manage my stress level.
+TUXEDO  The man wore a jet black tuxedo with satin stripes.
+TUXEDO  It was made with rich fabric cut in the latest style.
+TUXEDO  Clearly he had it tailored, as it fit the man perfectly.
+TUXEDO  It looked like something a professional stylist would have picked out for a formal event.
+TUXEDO  While the tuxedo is still preferred, today's grooms are making personal statements in wedding attire.
+TUXEDO  Shorter jackets are on the cutting edge of wedding fashion for men.
+TUXEDO  Grooms are also jazzing up their tuxedos with colorful shirts and satin ties.
+TUXEDO  A tuxedo jacket is a tailless dinner jacket with black silk lapels.
+TUXEDO  Black tie trousers should be a perfect match to the tuxedo jacket.
+TUXEDO  The shirt should always be plain white and the tie should be black and match the jacket lapels.
+BLINDNESS  The concert pianist went blind in adulthood.
+BLINDNESS  Her blindness was caused by a genetic condition that slowly damaged the eyes.
+BLINDNESS  She told interviewers that being blind was an advantage to a pianist.
+BLINDNESS  She had no visual distractions, so she could concentrate more fully on her music.
+BLINDNESS  The government defines blindness as vision insufficient for the ordinary activities of life.
+BLINDNESS  By establishing the parameters of legal blindness, resources can be focused on the legally blind.
+BLINDNESS  This may overlook those who have vision problems but who do not meet the standard.
+BLINDNESS  In developing countries, blindness in children is usually caused by infectious disease and nutritional deficiencies.
+BLINDNESS  These causes can often be prevented by medicine and vitamin supplements.
+BLINDNESS  In developed countries, blindness is more likely to be caused by genetic problems.
+TASTE  No one really knows exactly how a taste gets from your mouth to your brain.
+TASTE  Scientists think the process begins when a molecule of food touches a taste bud cell.
+TASTE  The cell carries a taste message to taste nerves beneath the cell.
+TASTE  It was once believed that each taste bud responded to one of the four basic tastes.
+TASTE  That is, a taste bud on the tip of the tongue would respond only if you were eating something sweet.
+TASTE  Scientists now think that a single taste bud can be sensitive to all of the basic tastes.
+TASTE  My sense of taste isn't very good, so I tend to eat foods with very strong flavors.
+TASTE  I like lots of hot sauce, and I drink my coffee with no cream, so it's very bitter.
+TASTE  I can't even taste sweetness well, so when I make cookies I add extra sugar.
+BONE_FRACTURE  Hip fractures are a real problem for aging individuals.
+BONE_FRACTURE  Patients are faced with the pain of the break and the difficult process of healing.
+BONE_FRACTURE  Families have to adjust to the patient's loss of independence.
+BONE_FRACTURE  And for society, hip fractures involve substantial expense and time in the hospital.
+BONE_FRACTURE  Halfway through the race, I heard a sound like someone snapping their fingers.
+BONE_FRACTURE  I felt a crunch and I knew instantly that my foot was broken.
+BONE_FRACTURE  Every step felt like running on spikes.
+BONE_FRACTURE  At the doctor's office afterward, the x-ray clearly showed the fracture.
+BONE_FRACTURE  There are a few different types of bone fracture.
+BONE_FRACTURE  In closed or simple fractures, the bone is broken but the skin is intact.
+BONE_FRACTURE  In open or compound fractures, the broken bone has punctured the skin and produced an open wound.
+INFECTION  New ear piercings can become infected if they're not carefully cleaned.
+INFECTION  Signs of infection include tenderness, swelling, or redness around the earlobe.
+INFECTION  If you see these symptoms, clean the area and apply some ointment.
+INFECTION  If the redness and swelling don't go away, contact your health care provider.
+INFECTION  A local hospital has initiated new measures to reduce infections.
+INFECTION  They have improved hand washing habits and ensured that infected patients are isolated from other patients.
+INFECTION  The hospital has seen infection rates drop since the new measures began.
+INFECTION  Scrubbing a wound with soap or alcohol delays healing, which increases the risk of infection.
+INFECTION  Band-aids can increase the risk of infection by holding in heat and moisture.
+INFECTION  Fortunately, most skin infections can easily be treated once they are diagnosed.
+OPERA  Modern opera started at the end of the sixteenth century.
+OPERA  It began as an effort to rediscover and imitate Greek tragic performance.
+OPERA  Early founders of opera chose tales from antiquity for their subject matter.
+OPERA  Later operas branched out into different sources of stories and musical traditions.
+OPERA  Opera is an art form in which singers and musicians perform a play that combines words and music.
+OPERA  It incorporates many of the elements of spoken theatre, such as acting, scenery, and costumes.
+OPERA  Performances are typically given in an opera house and accompanied by an orchestra.
+OPERA  The opera singer has worked hard to win the role in the new production.
+OPERA  Her job is not just about singing.
+OPERA  Acting, stage presence, and musical interpretation are all critical.
+OPERA  But her pure, strong voice is certainly the star of the show.
+PAINTER  A painter must keep many elements in mind while completing a painting.
+PAINTER  She has to use solid elements of design, like strong composition and lighting.
+PAINTER  She has to execute the brush strokes with skill.
+PAINTER  Most importantly, the content of the painting should reveal a glimpse of the painter's soul.
+PAINTER  Long ago, painters were employed more as skilled artisans than as creative artists.
+PAINTER  However, prominent painters had the social status of scholars and members of the royal court.
+PAINTER  They signed their work, decided on its subject and imagery, and established a personal relationship with their patrons.
+PAINTER  As a painter, I learned to focus less on the actual scene and more on the painting itself.
+PAINTER  An artist's eye is not a camera lens that has to record everything within its field of vision.
+PAINTER  I found nature provides useful information, but more than is needed for a good painting.
+OWL  The eagle owl is an impressive bird.
+OWL  It has ear tufts that stick up like horns.
+OWL  Its large orange eyes are downright creepy, and look like they could pierce right through you.
+OWL  This owl hunts at night, flying swiftly and silently through the darkness.
+OWL  While some owl species have become endangered, others are thriving.
+OWL  The barred owl has spread well beyond its previous habitat.
+OWL  Early findings suggest that logging may have facilitated the barred owl's invasion.
+OWL  The owl landed on a thick branch and gripped it with her talons.
+OWL  She pressed her wings to her sides and settled down, half-closing an eye.
+OWL  She might have been a statue but for the glow of her eyes.
+POLAR_BEAR  It's unnerving to watch a polar bear stalk across floating sea ice.
+POLAR_BEAR  It's even worse when you are submerged in the frigid waters directly beneath the huge animal.
+POLAR_BEAR  Overhead, giant paws set down on the ice as the polar bear pursued its prey.
+POLAR_BEAR  As part of the film crew for a polar bear documentary, I spent months capturing these shots.
+POLAR_BEAR  Polar bears are one of the few animals that will attack people for reasons other than fear or confusion.
+POLAR_BEAR  They may attack out of hunger because they live in a food-scarce environment.
+POLAR_BEAR  They will sneak up on people slowly, careful to conserve their energy.
+POLAR_BEAR  The seal is an important part of the polar bear's diet.
+POLAR_BEAR  When hunting, they will wait by a seal's breathing hole, or stalk seals that are basking on the ice.
+POLAR_BEAR  The polar bear will crawl quietly forward and freeze in place when the seal looks around.
+CASTLE  The medieval castle was not a structure built primarily for defense.
+CASTLE  Its purpose was to dominate its surroundings.
+CASTLE  A castle could easily control lands within a day's walk.
+CASTLE  During times of attack, peasants, livestock, and property could be brought inside the castle's walls for protection.
+CASTLE  Spectacular castles in dramatic locations provide a record of the stormy history of many regions.
+CASTLE  Today, they stand atop rocky cliffs overlooking beautiful landscapes and quaint villages.
+CASTLE  In the past, they were home to battles, plots and intrigue.
+CASTLE  Upon leaving the train station we saw our hotel looming above:  a magnificent castle built on a cliff.
+CASTLE  The thick outside walls sheltered an inner courtyard hundreds of feet above the river.
+CASTLE  Our tower rooms had an incredible but slightly scary view.
+PYRAMID  After climbing fifty feet up the side of the pyramid, the man gestured me into a small black entranceway.
+PYRAMID  This led into the chamber at the pyramid's center.
+PYRAMID  I followed him down the steep, dark, narrow Passage.
+PYRAMID  The smell inside the pyramid was chalky and the air was thick.
+PYRAMID  More than just the tomb of the king, pyramids represented the pride of the nation.
+PYRAMID  The care that the pyramid builders took in their craft is evident.
+PYRAMID  The stones covering the pyramid were precisely fitted together and polished until the structure gleamed.
+PYRAMID  Architects are still working to solve the mysteries of how pyramids were constructed.
+PYRAMID  Some think ramps were built inside the pyramid's walls to raise stone blocks.
+PYRAMID  Others speculate that ramps zigzagged up the exterior walls of the pyramid.
+ROCK_CLIMBING  Even beginner rock climbing takes courage and strength.
+ROCK_CLIMBING  Climbers who are learning the sport can try scrambling on large boulders.
+ROCK_CLIMBING  Once they're comfortable with that, they can begin using ropes to safely climb vertical rock faces.
+ROCK_CLIMBING  All of the boys on the trip were new to rock climbing.
+ROCK_CLIMBING  Many were afraid of heights.
+ROCK_CLIMBING  Having someone else check their knots and harnesses helped them calm down.
+ROCK_CLIMBING  The adults set up climbing routes appropriate for beginners.
+ROCK_CLIMBING  Free-climbing is one particular style of rock climbing.
+ROCK_CLIMBING  The climber relies solely on her skill and physical strength to ascend a rock face.
+ROCK_CLIMBING  Rope and bolts are the only equipment used.
+ROCK_CLIMBING  They are meant only to stop the climber if she falls.
+SKIING  I hesitantly skied down the steep trail that my buddies convinced me to try.
+SKIING  I made a bad turn and I found myself tumbling down.
+SKIING  I finally came to a stop at a flat part of the slope.
+SKIING  My skis were nowhere to be found and my poles were lodged in a snow drift up the hill.
+SKIING  A major strength of professional skiers is how they use ski poles.
+SKIING  Proper use of ski poles improves their balance and adds flair to their skiing.
+SKIING  It minimizes the need for upper body movements to regain lost balance while skiing.
+SKIING  New ski designs and stiffer boots let skiers turn more quickly.
+SKIING  But faster and tighter turns increase the twisting force on the legs.
+SKIING  This has led to more injuries, particularly to ligaments in the skier's knee.

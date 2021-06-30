@@ -1,0 +1,384 @@
+MUSIC  An accordion is a portable musical instrument with two keyboards.
+MUSIC  One keyboard is used for individual notes, the other for chords.
+MUSIC  Accordions produce sound with bellows that blow air through reeds.
+MUSIC  An accordionist plays both keyboards while opening and closing the bellows.
+DWELLING  An apartment is a self-contained home that is part of a building.
+DWELLING  An apartment may have one or more rooms, as well as a kitchen and a bathroom.
+DWELLING  Some apartments are for single people, others for families.
+DWELLING  The building can have a garage, a laundry facility or extra storage space.
+FRUIT  An apple is a fruit that can be green, red or yellow.
+FRUIT  Apples have thin skin, a crisp, sweet pulp and seeds inside.
+FRUIT  Some very tart apples are used to make cider.
+FRUIT  Apples can be eaten raw, roasted or baked in pies.
+CRIME  Arson is the criminal act of burning a building or wildland.
+CRIME  A fire investigation determines if a fire was caused by accident or arson.
+CRIME  Arson can be done to cause damage to others or collect insurance.
+CRIME  The severity of the crime depends on whether people were harmed.
+VEHICLES_TRANSPORT  An automobile, or car, is a wheeled vehicle for transporting passengers.
+VEHICLES_TRANSPORT  A car can be powered by a gasoline or electric engine.
+VEHICLES_TRANSPORT  The driver steers the car on roads, other passengers just sit.
+VEHICLES_TRANSPORT  Automobiles vary in size, number of doors and the type of trunk.
+WEAPON  The axe is a tool used to split and cut wood.
+WEAPON  The axe usually consists of a head attached to a handle.
+WEAPON  Historically, axe heads were made of stone and then metal.
+WEAPON  Axes are used by woodcutters and firemen entering buildings.
+FRUIT  A banana is a long fruit that grows in bunchs, with a soft edible inside.
+FRUIT  A banana when ripe can be yellow, purple or red and have small brown spots.
+FRUIT  The greatest producers are tropical countries, such as India or Ecuador.
+FRUIT  Unripe bananas and plantains are staple foods and often cooked like potatoes.
+FURNITURE  A bed is a piece of furniture used as a place to sleep or have sex in.
+FURNITURE  A bed is made of a mattress and a box spring, plus sheets, pillows and covers.
+FURNITURE  In waterbeds the mattress is filled with water, and in airbeds it is filled with air.
+FURNITURE  Another type of bed is the hammock, a fabric sling suspended above the ground.
+INSECT  A bee is a flying insect, with a black and yellow body and six legs.
+INSECT  Bees spread pollen between flowers as they collect nectar to make honey.
+INSECT  Bees are social insects and live together in a colony located in a hive.
+INSECT  Many bees have stingers and can attack if they feel threatened.
+VEHICLES_TRANSPORT  A bicycle is a vehicle with two wheels and pedals on a frame.
+VEHICLES_TRANSPORT  A bicycle is propelled by the pedalling of a cyclist on the saddle.
+VEHICLES_TRANSPORT  The wheels have rubber tires with an inner tube full of air.
+VEHICLES_TRANSPORT  People use bicycles for transportation, recreation and racing.
+PROFESSION  A blacksmith creates objects by forging iron or steel.
+PROFESSION  A blacksmith hammers and bends hot iron on an anvil to change its shape.
+PROFESSION  Blacksmiths wears a thick apron and handle the metal with tongs.
+PROFESSION  Blacksmiths make objects like weapons, horse shoes or iron furniture.
+APPLIANCE  A blender is a kitchen appliance used to mix ingredients or puree food.
+APPLIANCE  Blenders have a glass or plastic container with a rotating blade in the bottom.
+APPLIANCE  Blenders are used to make milk shakes and fruit smoothies.
+APPLIANCE  Blenders are also used to make cold alcoholic drinks with crushed ice.
+HUMAN  A boy is a young male child who has not undergone puberty.
+HUMAN  The term is used to indicate sex distinctions relative to girls.
+HUMAN  Traditionally boys like to play rough games and fight with each other.
+HUMAN  An adult male behaving immaturely is often referred to as a boy.
+VEGETABLE  Broccoli is a plant in the cabbage family.
+VEGETABLE  Broccoli has a green flower head and a thick, tough stalk.
+VEGETABLE  Broccoli is high in vitamins, fiber and other nutrients.
+VEGETABLE  Broccoli can be boiled, stir-fried or eaten raw.
+INSECT  A butterfly is a flying insect with four large wings.
+INSECT  The wings of butterflies can be very colorful and patterned.
+INSECT  Metamorphosis is the transformation of a caterpillar into a butterfly.
+INSECT  Some people collect butterflies because of their colorful wings.
+PROFESSION  A carpenter is an artist or manual laborer who works with wood.
+PROFESSION  Carpenters build and repair houses, furniture, boats and other objects.
+PROFESSION  Carpenters use tools such as hammers, saws, pliers and planes.
+PROFESSION  A luthier is a carpenter that makes and repairs musical instruments.
+ANIMAL  Cats are small furry animals with four legs and a tail.
+ANIMAL  Cats like to groom themselves by licking their fur.
+ANIMAL  Cats can hunt mice or birds, but are often fed by their owners.
+ANIMAL  The claws of cats are retractable so that they keep sharp.
+FURNITURE  A chair is a piece of furniture designed for people to sit on.
+FURNITURE  Chairs consist of a seat raised above floor level, supported by legs.
+FURNITURE  Chairs can also have back and arm rests, as well as a cushion.
+FURNITURE  Seats are fixed chairs located in vehicles or in places like cinemas.
+MUSIC  A clarinet is a woodwind musical instrument.
+MUSIC  A clarinet is a long black tube with a flare at the bottom.
+MUSIC  The player chooses notes by pressing keys and holes.
+MUSIC  The clarinet is used both in jazz and classical music.
+FISH  A cod is a fish that lives in the colder areas of the Atlantic.
+FISH  Cod flesh is white and mild-tasting, and flakes easily when cooked.
+FISH  Fresh cod is used for fish and chips, salted cod for elaborate dishes.
+FISH  Cod has been caught, salted and traded since the time of the Vikings.
+DRINK_NON_ALCOHOLIC  Coffee is made from coffee beans, the seeds of the coffee plant.
+DRINK_NON_ALCOHOLIC  Coffee is a popular drink in many countries, and usually served hot.
+DRINK_NON_ALCOHOLIC  Coffee contains a mild drug called caffeine that keeps people awake.
+DRINK_NON_ALCOHOLIC  Coffee is the world's seventh-largest legal agricultural export.
+LANDSCAPE  A desert is a natural environment where almost no rain falls.
+LANDSCAPE  Hot deserts are usually filled with sand dunes or rocks.
+LANDSCAPE  Some animals and plants have adapted to live in deserts.
+LANDSCAPE  The biggest hot desert is the Sahara in northern Africa.
+FURNITURE  A desk is a piece of furniture used for working at, sometimes with a computer.
+FURNITURE  A desk has a flat surface and can be made of wood, plastic or metal.
+FURNITURE  A desk may have drawers to store supplies and papers.
+FURNITURE  A cubicle consists of a desk surrounded by partitions on three sides.
+BUILDING_PART  A door is a movable barrier to entrance or exit from an enclosed area.
+BUILDING_PART  Most doors have locks to control who gets to pass through them.
+BUILDING_PART  Most doors are opened by pushing or pulling a handle after they are unlocked.
+BUILDING_PART  Other types of doors can slide or consist of a revolving chamber.
+CLOTHING  A dress is a piece of clothing that women sometimes wear.
+CLOTHING  A dress is like a shirt attached to a long, matching skirt.
+CLOTHING  A dress is usually worn at formal occasions, such as a wedding or a dance.
+CLOTHING  It can be hard to climb stairs or ride a bike in a dress.
+CRIME  Drunk driving is the act of driving under the effects of alcohol.
+CRIME  Drunk driving of any vehicle is a crime in most of the world.
+CRIME  It plays a role in almost half of all vehicle-related deaths.
+CRIME  Drunk drivers are caught by field sobriety and breathing tests.
+DISASTER  A drought is a persistent shortage of the water supply caused by lack of rain.
+DISASTER  Drought will cause crops and plants to stop growing and die.
+DISASTER  Extreme drought will eventually turn areas into desert and cause famine.
+DISASTER  Large numbers of people have to migrate away from dust bowls.
+BIRD  Eagles are large birds of prey that hunt during the day and have very good eyesight.
+BIRD  Eagles have hooked beaks for tearing flesh, strong legs and sharp talons.
+BIRD  Eagles live in eyries and some species eat fish and others small mammals.
+BIRD  The bald eagle has a bright white head and is the national bird of the United States.
+DISASTER  Earthquakes shake the ground and can knock down buildings and other structures.
+DISASTER  The shaking can also trigger landslides and volcanic activity.
+DISASTER  Most earthquakes are caused by the release of energy in the Earth's crust.
+DISASTER  An earthquake at sea can displace the seabed and cause a tsunami.
+ANIMAL  Elephants are the largest kind of land mammal, weighing several tons.
+ANIMAL  An elephant has a long nose called a trunk, which can grab things or food.
+ANIMAL  The elephant has a pair of ivory tusks, for moving objects or digging into trees.
+ANIMAL  The elephant flaps its large ears to cool the blood in them and its body.
+BODY_PART  The eye is an organ for sensing light and coding it for the visual cortex.
+BODY_PART  Most animals have complex eyes which can detect color, motion and texture.
+BODY_PART  The fovea is the center of the human eye and the most sensitive part of it.
+BODY_PART  Insects have compound eyes made up of eye units facing in many directions.
+PLACE  A farm is land used to grow plants or raise animals for food.
+PLACE  Farmers are the people who run the farm and decide what to produce.
+PLACE  Farms usually have a house for farmers, a silo and a barn.
+PLACE  A cooperative is a farm where many farmers share the land and equipment.
+BODY_PART  Primates usually have four fingers and a thumb on each hand.
+BODY_PART  Fingers are used for grasping, writing, grooming and other activities.
+BODY_PART  The fingertips are sensitive to temperature, pressure and vibration.
+BODY_PART  The nail protects the tip of the finger and can be grown or decorated.
+DISASTER  A flood is an overflow of an expanse of water that submerges inhabited land.
+DISASTER  Flood can be caused by heavy rain or rapid snow melt, as well as earthquakes at sea.
+DISASTER  In a flood a river will flow out of its channel or break dams and levees.
+DISASTER  During a flood people evacuate and the contaminated water causes diseases.
+BUILDING_PART  A floor is a horizontal surface inside a building, used for walking on.
+BUILDING_PART  Floors may be made of bare concrete, tile, linoleum or wooden floorboards.
+BUILDING_PART  People often put carpets on a floor, for comfort and to dampen noise.
+BUILDING_PART  In buildings the floor often has pipes and electrical wiring under it.
+BODY_PART  A foot is a body part on the end of a leg. 
+BODY_PART  People use their feet when walking, running or standing straight.
+BODY_PART  People also use their feet to kick, in both fighting and sports.
+BODY_PART  Many cultures have rules for behavior related to feet.
+LANDSCAPE  A forest is an area with a high density of trees and canopy cover.
+LANDSCAPE  The type of forest depends on temperature and rainfall in its location.
+LANDSCAPE  A forest ecosystem has various types of trees and animals, as well as ground plants.
+LANDSCAPE  Deforestation is the cutting down of forests disregarding regeneration.
+KITCHEN_UTENSIL  A fork is a tool for eating solid foods, with a handle and several tines.
+KITCHEN_UTENSIL  Forks are usually  made of metal, or plastic, if disposable.
+KITCHEN_UTENSIL  Forks are used to lift food to the mouth or to hold food in place while cutting.
+KITCHEN_UTENSIL  Forks are used in Western cultures, and there are special kinds for various foods.
+KITCHEN_UTENSIL  A frying pan is a small pan with sloping sides and a handle.
+KITCHEN_UTENSIL  A frying pan is used to fry, sear and brown food.
+KITCHEN_UTENSIL  The food is cooked on oil covering the bottom of the pan.
+KITCHEN_UTENSIL  Frying pans are made of iron or teflon-clad steel.
+HUMAN  A girl is a female human who has not yet reached maturity.
+HUMAN  At puberty the body of a girl develops into that of a woman.
+HUMAN  Girls often like playing with dolls and social games.
+HUMAN  Girls sometimes grow long hair and wear dresses and skirts.
+CLOTHING  A glove is a piece of clothing that covers the hand and fingers.
+CLOTHING  Gloves to protect against cold are made of wool or lined waterproof material.
+CLOTHING  Disposable rubber or latex gloves are used to shield hands from germs or chemicals.
+CLOTHING  A mitten is a kind of glove where the four fingers are covered together.
+TOOL  A hammer is a tool used to deliver an impact to an object.
+TOOL  A hammer is most often used to drive nails into wood.
+TOOL  The claw on the head can be used to remove nails.
+TOOL  Hammers vary in the shape of the head and handle length.
+WEAPON  A hand grenade is an explosive used as a weapon against people.
+WEAPON  Hand grenades are thrown and timed to explode a bit after that.
+WEAPON  Grenades can also be fired from rifles or shoulder launchers.
+WEAPON  Tear gas grenades are thrown into the middle of a mob to disperse it.
+ANIMAL  A horse is a large hoofed mammal with four long, muscular legs.
+ANIMAL  A horse has a tail and a mane on its neck, and is usually gray or brown.
+ANIMAL  Horses have been used for draft work, travel and entertainment.
+ANIMAL  A human can ride a horse while it walks, trots or gallops.
+PLACE  People go to hospitals to be healed when they are sick or injured.
+PLACE  Hospitals are staffed by professional physicians, surgeons, and nurses.
+PLACE  Some patients go there for specialist diagnosis or therapy, leaving the same day.
+PLACE  For some operations or treatments patients have to stay for several weeks.
+DWELLING  A house is a permanent building or structure for people or families to live in.
+DWELLING  A house has a roof and walls to keep out cold and rain, and windows to let light in.
+DWELLING  A house can have rooms for purposes like sleeping, cooking or washing.
+DWELLING  Most people leave the house to work and come back at night to eat and sleep.
+DWELLING  An igloo is a type of shelter made from blocks of snow by Inuit.
+DWELLING  Igloos are built in places where snow covers the land most of the time.
+DWELLING  Igloos are often built in the shape of a dome, with an entrance tunnel.
+DWELLING  Air pockets in snow insulate the space, and body heat warms igloos.
+KITCHEN_UTENSIL  A knife is a tool with a sharp edge that is used to cut things.
+KITCHEN_UTENSIL  Modern knives consist of a handle and a blade, usually made of metal.
+KITCHEN_UTENSIL  Knives have also been used as weapons and instruments in rituals.
+KITCHEN_UTENSIL  A knife can be used to attack by slashing, stabbing or throwing. 
+VEGETABLE  Lentils are the seeds of a plant of the legume family.
+VEGETABLE  Lentils can be red, green, brown, black or yellow.
+VEGETABLE  Lentils are commonly used in Indian and Mediterranean cuisines.
+VEGETABLE  Lentils are cooked by boiling and are a great source of protein.
+VEGETABLE  Lettuce is a biennial plant often grown in temperate climates as a leaf vegetable.
+VEGETABLE  Lettuce can be eaten cold and raw, in salads and other dishes, or cooked.
+VEGETABLE  Lettuce is considered fairly easy to grow and a suitable crop for beginners.
+VEGETABLE  Most lettuce leaves taste bitter, but some are bred to remove the bitterness.
+PLACE  A library is a place where a collection of books, documents and media is kept.
+PLACE  Librarians work at libraries and are experts at finding and organizing information.
+PLACE  People can go to public libraries and borrow books to take home for several weeks.
+PLACE  Academic libraries support scholarly research and have specialized books.
+DWELLING  A log cabin is a small house built from round logs.
+DWELLING  Log cabin is a symbol of American frontier life and humble origins.
+DWELLING  Log cabins were used as first shelters by european settlers.
+DWELLING  Log cabins were built using logs with notch joints at the ends.
+HUMAN  A man is a male human adult.
+HUMAN  A boy becomes a man after passing through puberty.
+HUMAN  Manhood is associated with masculinity and virility.
+HUMAN  Men differ from women in height, weight, and body structure.
+DRINK_NON_ALCOHOLIC  Milk is a white liquid produced by female mammals to feed their young.
+DRINK_NON_ALCOHOLIC  Newborn animals must be fed milk before they can eat solid food.
+DRINK_NON_ALCOHOLIC  Dairy products such as cheese and butter are made from milk.
+DRINK_NON_ALCOHOLIC  Liquid produced from soybeans and coconuts is sometimes called milk.
+INSECT  Mosquitos are thin, small flying insects that emit a high-pitched sound.
+INSECT  Mosquitoes have mouthparts for piercing the skin of plants and animals.
+INSECT  Female mosquitoes bite people and animals and suck their blood for protein.
+INSECT  Mosquito bites can spread yellow fever, malaria and other parasite diseases.
+LANDSCAPE  A mountain is a landform that rises steeply above surrounding land.
+LANDSCAPE  Mountains rise higher than hills and sometimes have snow at the top.
+LANDSCAPE  A range of mountains forms due to tectonic plate collision.
+LANDSCAPE  Mountaineers are people who climb or hike up mountains.
+BODY_PART  The mouth is the face cavity we put food in when we eat.
+BODY_PART  The mouth has teeth to chew food and mix it with saliva.
+BODY_PART  The mouth is also used for kissing and talking.
+BODY_PART  Speech sounds are controlled by tongue placement in the mouth.
+KITCHEN_UTENSIL  A mug is a sturdy cup with a handle for drinking hot liquids.
+KITCHEN_UTENSIL  A mug is normally ceramic, but can also be made of metal or glass.
+KITCHEN_UTENSIL  A mug is thick and has a ring base for thermal insulation.
+KITCHEN_UTENSIL  Mugs can be plain or have drawings imprinted or carved on them.
+CRIME  Murder is the unlawful killing of another human being with intent.
+CRIME  Murder a serious crime because it deprives the victim of their existence.
+CRIME  Killing in self-defense, accidentally or in war is not considered murder.
+CRIME  A convicted murderer is often given a life sentence or the death penalty.
+DRINK_NON_ALCOHOLIC  Orange juice is a drink made from the liquid in orange pulp.
+DRINK_NON_ALCOHOLIC  Orange juice has a sweet, acid taste and contains a lot of vitamin C.
+DRINK_NON_ALCOHOLIC  Freshly squeezed orange juice often contains pulp as well.
+DRINK_NON_ALCOHOLIC  Orange juice is often drunk at breakfast from a glass.
+BIRD  A parrot is a bird that lives in warm and tropical regions.
+BIRD  Parrots have brightly-colored feathers and a sharp, curved beak.
+BIRD  Parrots can imitate the human voice if they hear it repeatedly.
+BIRD  Their appearance and abilities makes them popular pets.
+FRUIT  A peach is an orange-yellow fruit with a characteristic smell.
+FRUIT  The skin of a peach is thin and covered in small, fine hairs.
+FRUIT  Peaches have a large, red-brown stone inside which contains the seed.
+FRUIT  Peaches are sweet and delicate, and must be harvested after ripening.
+MUSIC  The piano is a popular musical instrument played by means of a keyboard.
+MUSIC  Pressing a piano key causes a felt-tipped hammer to hit a vibrating steel string.
+MUSIC  The piano has an enormous note range, and pedals to change the sound quality.
+MUSIC  The piano repertoire is large and famous pianists can give solo concerts.
+FISH  Piranhas are small, ferocious fish that live in South American rivers.
+FISH  Piranhas live and attack in schools and are most active during the day.
+FISH  Piranhas have very sharp teeth and are opportunistic carnivores.
+FISH  Piranhas eat fish, insects, lizards, mammals and carrion.
+FRUIT  The raspberry is a fruit that grows in forest clearings or fields.
+FRUIT  A single raspberry consists of many small fruits joined together.
+FRUIT  Raspberries are eaten by themselves or cooked with sugar into jam.
+FRUIT  Leaves of the raspberry are used fresh or dried in herbal teas.
+BIRD  A raven is a large black bird that thrives in many climates.
+BIRD  Ravens feed on carrion, insects, berries or small animals. 
+BIRD  Ravens have large brains and are capable of problem solving.
+BIRD  In folklore ravens are birds of ill-omen and also tricksters. 
+APPLIANCE  A refrigerator is a cooling device used to contain and preserve food.
+APPLIANCE  Some refrigerators can have a small compartment at freezing temperature.
+APPLIANCE  A refrigerator can have shelves and small compartments for different types of food.
+APPLIANCE  A refrigerator is generally white and people often put magnets on its surface.
+WEAPON  A rifle is a firearm that rests on the shoulder and has a barrel with twisting grooves.
+WEAPON  The grooves make the bullets spin around the rifle axis as they fly through the air.
+WEAPON  Rifles are used in hunting and shooting sports, sometimes with scopes.
+WEAPON  Assault rifles can fire in bursts and are the standard infantry weapon.
+FISH  Salmon is a fish that migrates from fresh water to the ocean and back to spawn.
+FISH  Salmon flesh is orange or red and has high protein content and a nice taste.
+FISH  Salmon can be eaten raw in sushi or cooked by grilling, poaching or in other ways.
+FISH  Salmon is the most common farmed fish, though it can also be caught in the wild.
+TOOL  A saw is a tool that uses a hard blade or abrasive wire to cut hard materials.
+TOOL  The small sharp points along the cutting side of the saw are called the teeth.
+TOOL  Saws can be worked by hand, or powered by an electric motor or gas engine.
+TOOL  Saws are used extensively in forestry, construction, carpentry and medicine.
+PROFESSION  A scientist studies and produces new knowledge about the physical world.
+PROFESSION  A scientist creates hypotheses and does experiments to test them.
+PROFESSION  Physics, chemistry and biology are classic examples of sciences.
+PROFESSION  Scientists publish their research in journals and conferences.
+TOOL  Scissors are a two-bladed instrument used for cutting.
+TOOL  The blades are usually metallic, with plastic or metal handles.
+TOOL  Depending on the size and format, scissors can cut paper, hair or fabric.
+TOOL  Shears are large scissors used for cutting shrubs or pieces of metal.
+TOOL  A screwdriver is a tool for inserting and tightening screws into something.
+TOOL  Screwdrivers can also be used to remove screws after they are inserted.
+TOOL  The screwdriver tip applies the torque from rotating the handle.
+TOOL  The two major types of screwdrivers are Phillips and flathead.
+FISH  A shark is a large fish with a cartilage skeleton.
+FISH  Sharks have streamlined bodies, with a large dorsal fin.
+FISH  Most sharks predate on fish and mammals, with powerful jaws.
+FISH  Sharks have very keen senses and can detect electrical fields.
+VEHICLES_TRANSPORT  A ship is a large vehicle that floats and travels on water.
+VEHICLES_TRANSPORT  A ship can be powered in the ocean by sails, steam, or diesel engines.
+VEHICLES_TRANSPORT  Ships are used to fish in the ocean and to transport cargo containers.
+VEHICLES_TRANSPORT  Cruise ships are floating hotels that take people between cities.
+CLOTHING  A shoe is clothing for the foot, with a sole, an outsole and a heel.
+CLOTHING  Shoes are usually made of leather, canvas, rubber or plastic.
+CLOTHING  Women's shoes often have high heels and come in many styles and colors.
+CLOTHING  A sneaker is a shoe for sports and athletic activity.
+PROFESSION  A soldier is a member of the national armed forces who fights on land.
+PROFESSION  A soldier in the militia must wear a uniform, usually camouflage.
+PROFESSION  In a volunteer army, a soldier is paid for his or her work.
+PROFESSION  A soldier fights using weapons such as rifles and grenades.
+WEAPON  Spears are weapons that consist of a pole and sharpened head at one end.
+WEAPON  Spears were the most common personal weapon before the advent of firearms.
+WEAPON  Spears were used for stabbing or throwing when fighting in war.
+WEAPON  Some native people still use the spear for hunting and fishing.
+INSECT  Spiders are insects with eight legs that make silk.
+INSECT  Spiders build webs with silk and use them to catch insects.
+INSECT  Spiders use venomous fangs to paralyse their stuck prey.
+INSECT  Spiders can be as small as a coin or as big as a bird.
+LANDSCAPE  Swamps are low, spongy land subject to frequent inundation.
+LANDSCAPE  A swamp is covered with shallow water, mud and vegetation.
+LANDSCAPE  Swamps are nesting and breeding grounds for birds and reptiles.
+LANDSCAPE  Farmers often drain swamps to produce fertile arable land. 
+CLOTHING  A sweater is a heavy garment worn on the torso for warmth.
+CLOTHING  Sweaters are often knitted from wool but cotton is also common.
+CLOTHING  A sweater that opens down the front is called a cardigan.
+CLOTHING  Sweaters differ in cut, collar and sleeve shape, as well as decoration.
+FURNITURE  A table is a piece of furniture with a flat surface and legs.
+FURNITURE  There are usually chairs around a table for people to sit.
+FURNITURE  People set cutlery, plates and food on a table to eat a meal together.
+FURNITURE  Tables are also used as surfaces to work or write on.
+APPLIANCE  A television is an appliance with a screen that displays moving images.
+APPLIANCE  Televisions are mostly used for watching programs or films.
+APPLIANCE  They are used to play videogames when connected to a game console.
+APPLIANCE  Television content can be broadcast or received via cable or internet.
+CRIME  Theft is the taking of person's property without their consent.
+CRIME  Thieves steal to own something or to sell it to receivers.
+CRIME  Theft is a crime and can be punishable with jail or fines.
+CRIME  Industrial espionage is theft of ideas and intellectual property.
+APPLIANCE  A toaster is a kitchen appliance for toasting bread using heating elements.
+APPLIANCE  Pop-up toasters toast the bread placed in a slot and eject it once done.
+APPLIANCE  Toaster ovens have a door on the side, a tray within and temperature control.
+APPLIANCE  They allow bread to be cooked with toppings like garlic or cheese.
+VEGETABLE  The tomato is a shiny and smooth red fruit, with a savory taste.
+VEGETABLE  A tomato softens and changes color from green to red as it gets more ripe.
+VEGETABLE  Tomatoes can be used to make salads, soup or ketchup, as well as sauce.
+VEGETABLE  There are many varieties of tomato, with different sizes and tastes.
+VEHICLES_TRANSPORT  A train is a connected series of cars that moves between stations on a track.
+VEHICLES_TRANSPORT  The train is pulled by a locomotive, powered by diesel or electricity.
+VEHICLES_TRANSPORT  A freight train transports containers of goods or fuel over long distances.
+VEHICLES_TRANSPORT  Commuter trains transport people between suburbs and stations inside a city.
+PLACE  A train station is a place where passengers get on or off a train.
+PLACE  Train stations have counters or machines for purchasing tickets.
+PLACE  There are waiting rooms and places to eat in a station.
+PLACE  Passengers or cargo trains enter from a platform next to the line.
+DISASTER  A tropical cyclone is a storm formed over warm tropical sea.
+DISASTER  Cyclones can produce very powerful winds and torrential rain.
+DISASTER  Tropical cyclone can also cause high waves and coastal flooding.
+DISASTER  A tropical cyclone can move inland and seriously damage property.
+MUSIC  The violin is an instrument with four strings that is played with a bow.
+MUSIC  Violin is the smallest and highest pitched instrument in its family.
+MUSIC  A violinist holds the instrument between the chin and the collarbone.
+MUSIC  Different notes are made by fingering the neck with one hand while bowing.
+BIRD  Vultures are scavenging birds, feeding mostly on the carcasses of dead animals.
+BIRD  Many vultures have a bald head without feathers for losing heat.
+BIRD  Vultures use their large wings to soar for miles without flapping.
+BIRD  Vultures seldom attack healthy animals, but may kill the wounded or sick.
+BUILDING_PART  A wall is a solid structure that defines and sometimes protects an area.
+BUILDING_PART  Walls delineate a building, support the roof, and divide the space into rooms.
+BUILDING_PART  Walls are usually made of stone, brick, or cement, as well as drywall.
+BUILDING_PART  Retaining walls provide a barrier to movement of earth, stone or water.
+DRINK_NON_ALCOHOLIC  Water is the most common liquid on Earth, covering 70% of its area.
+DRINK_NON_ALCOHOLIC  Plants, animals and people must drink water in order to live.
+DRINK_NON_ALCOHOLIC  Water freezes at a low temperature and becomes solid ice.
+DRINK_NON_ALCOHOLIC  Rain is water that falls from clouds in the sky, which are condensed vapor.
+ANIMAL  A whale is a very large mammal that lives in the ocean.
+ANIMAL  Whales breathe through blowholes on their heads when surfacing.
+ANIMAL  The blubber in a whale serves as an energy reservoir and as insulation.
+ANIMAL  Whales have been hunted for meat, whale oil and ambergris.
+BUILDING_PART  A window is a transparent opening in a wall to let light through.
+BUILDING_PART  A typical window is made of sheets of glass held in place by frames.
+BUILDING_PART  When open, a window will also let air and sound through.
+BUILDING_PART  Some windows have multiple panes to increase insulation inside.
+HUMAN  A woman is a female human adult.
+HUMAN  A woman is stereotypically seen as a caregiver.
+HUMAN  A woman can become pregnant and bear children.
+HUMAN  A woman has different reproductive organs than a man.
